@@ -1,8 +1,3 @@
-/**
- * File:107-quick_sort_hoare.c
- * AUTHORS:(Kelai137 and Mayow) ALX collaboration project
- */
-
 #include "sort.h"
 
 void swap_ints(int *a, int *b);
