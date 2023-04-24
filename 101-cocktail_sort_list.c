@@ -96,6 +96,3 @@ void cocktail_sort_list(listint_t **list)
 		}
 	}
 }
-/**
- * by Kelai137 and Mayow
- */
